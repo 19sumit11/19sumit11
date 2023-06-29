@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at https://sumit-myportfolio.netlify.app/ target="_blank"
+- 👨‍💻 All of my projects are available at https://sumit-myportfolio.netlify.app/ 
 
 - 💬 Ask me about **c++,Development**
 
